@@ -1,6 +1,6 @@
 # Hi there, I'm Wilson Aina 👋
 
-### 🚀 Sr Golang Develope
+### 🚀 Sr Golang Developer
 
 Welcome to my GitHub profile! I'm a seasoned software developer with over a decade of experience in building scalable and efficient backend systems. Here's a little more about me:
 
