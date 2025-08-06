@@ -1,4 +1,4 @@
-# Hi there, I'm Wilson Aina 👋
+# Hi there, I'm Siva S. Mudaliar  👋
 
 ### 🚀 Sr Golang Developer
 
@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a seasoned software developer with over a deca
 
 ## 📫 Get in Touch
 
-- **Email**: wilson.aina.tech@gmail.com
+- **Email**: siva.s.monster@gmail.com
 
 ---
 
